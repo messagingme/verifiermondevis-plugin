@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "verifiermondevis": {
+      "type": "http",
+      "url": "https://www.verifiermondevis.fr/mcp",
+      "headers": { "Authorization": "Bearer ${VMD_API_KEY}" }
+    }
+  }
+}

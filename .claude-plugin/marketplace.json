@@ -1,0 +1,12 @@
+{
+  "name": "verifiermondevis",
+  "owner": { "name": "VerifierMonDevis", "url": "https://www.verifiermondevis.fr" },
+  "description": "VerifierMonDevis pour Claude Code : l'analyse d'un devis de travaux, dans la conversation.",
+  "plugins": [
+    {
+      "name": "verifiermondevis",
+      "source": "./",
+      "description": "Analysez un devis de travaux depuis Claude Code : verdict, écart sur les prix, entreprise vérifiée, conseils et message à l'artisan."
+    }
+  ]
+}

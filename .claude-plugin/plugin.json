@@ -1,0 +1,12 @@
+{
+  "name": "verifiermondevis",
+  "displayName": "VerifierMonDevis",
+  "version": "0.1.0",
+  "description": "Analysez un devis de travaux depuis Claude Code : prix comparés à un référentiel, entreprise vérifiée aux registres, clauses du devis, conseils et message à envoyer à l'artisan.",
+  "author": { "name": "VerifierMonDevis", "url": "https://www.verifiermondevis.fr" },
+  "homepage": "https://www.verifiermondevis.fr/developpeurs",
+  "repository": "https://github.com/messagingme/verifiermondevis-plugin",
+  "license": "MIT",
+  "icon": "./icon.svg",
+  "keywords": ["devis", "travaux", "btp", "mcp"]
+}
